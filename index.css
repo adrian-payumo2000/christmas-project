@@ -21,8 +21,7 @@ body {
   line-height: 50px;
   height: 50px;
   border-bottom: 0px solid #888; 
-  font-family: "Big John";
-  src: url(big_john-webfont.woff);
+  font-family: 'big_johnregular';
 } 
 
 .nav a {
@@ -80,8 +79,7 @@ h1 {
 	line-height: 130px;
 	margin: 10px 10;
     text-align: center;
-    font-family: "Miraculous&Christmas";
-    src: url(miraculouschristmas-webfont.woff);
+    font-family: 'miraculouschristmasregular';
 }
 /* styling my button */
 
@@ -95,8 +93,7 @@ h1 {
 	position: absolute;
 	left: 15px;
 	bottom: 15px;
-	font-family: "Miraculous&Christmas";
-    src: url(miraculouschristmas-webfont.woff);
+	font-family: 'miraculouschristmasregular';
 }
 
 .white-mode:hover {
