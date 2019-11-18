@@ -21,7 +21,11 @@ body {
   line-height: 50px;
   height: 50px;
   border-bottom: 0px solid #888;
-  font-family: Big John;
+ font-family: 'big_johnregular';
+    src: url('big_john-webfont.woff2') format('woff2'),
+         url('big_john-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 } 
 
 .nav a {
@@ -203,7 +207,11 @@ button{
   border: 1px solid #888;
   width: 80%;
   font-size: 40px;
-  font-family: "Miraculous&Christmas";
+  font-family: 'miraculouschristmasregular';
+    src: url('miraculouschristmas-webfont.woff2') format('woff2'),
+         url('miraculouschristmas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 .center {
   display: block;
