@@ -142,9 +142,9 @@ h1 {
   padding: 400px 0px 102px 0px !important;
 }
 .company-heading h1 {
-  margin-bottom: 100%;
-  padding-bottom: 100%;
-  line-height: 100%;
+  margin-bottom: 60px;
+  padding-bottom: 120px;
+  line-height: 80px;
   color: #fff;
   font-weight: 700 !important;
   text-align: center;
