@@ -22,6 +22,7 @@ body {
   height: 50px;
   border-bottom: 0px solid #888; 
   font-family: "Big John";
+  src: url(big_john-webfont.woff);
 } 
 
 .nav a {
@@ -206,6 +207,7 @@ button{
   width: 80%;
   font-size: 40px;
   font-family: "Miraculous&Christmas";
+  src: url(miraculouschristmas-webfont.woff);
 }
 .center {
   display: block;
