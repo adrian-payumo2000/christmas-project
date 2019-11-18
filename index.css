@@ -7,7 +7,7 @@ body {
 #centerNav {
     margin-left:0%;
 }
- 
+
 .nav ul {
   list-style: none;
   background-color: #444;
@@ -20,10 +20,8 @@ body {
   font-size: 1.0em;
   line-height: 50px;
   height: 50px;
-  border-bottom: 0px solid #888;
+  border-bottom: 0px solid #888; 
   font-family: "Big John";
-}
-  text-align: center;
 } 
 
 .nav a {
